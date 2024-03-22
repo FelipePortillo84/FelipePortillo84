@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, i'm Juan Felipe 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/juan-felipe-portillo-5016032b1)]()
+### Estudiante de Física en la Universidad de Nariño
+- Mi línea de investigación se enfoca en la teoría de campos
+#### Herramientas de cálculo
+- WolframMathematica
+- ScientificWork
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePortillo84&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
+<p align=center> <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=FelipePortillo84" alt="Visitors"> </p>
 
 <!--
 **FelipePortillo84/FelipePortillo84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
