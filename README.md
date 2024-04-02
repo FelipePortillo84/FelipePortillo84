@@ -5,11 +5,15 @@
 - Curso actualmente el décimo semestre.
 - Mi trabajo de grado se enfoca en la teoría clásica de campos.
 #### Herramientas de cálculo
-- ![Wolfram mathematica](https://img.shields.io/badge/-Wolfram_mathematica-blue?style=flat&logo=wolframmathematica&logoColor=white)
-- ScientificWork
+- ![Wolfram mathematica](https://img.shields.io/badge/-Wolfram_mathematica-red?style=flat&logo=wolframmathematica&logoColor=white)
+- ![Scientific Workplace](https://img.shields.io/badge/-Scientific_Workplace-red?style=flat&logo=&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePortillo84&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
 <p align=center> <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=FelipePortillo84" alt="Visitors"> </p>
+
+#### OS y herramientas
+- ![Windows](https://img.shields.io/badge/-Windows-green?style=flat&logo=Windows&logoColor=white)
+- ![Overleaf](https://img.shields.io/badge/-Overleaf-green?style=flat&logo=overleaf&logoColor=white) 
 
 <!--
 **FelipePortillo84/FelipePortillo84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
